@@ -1,0 +1,29 @@
+
+html
+rel 프론트엔드 개발자 입문편: HTML, CSS, Javascript 드림코딩 by 엘리
+rel html MDN 
+
+html은 브라우저에서 실행 가능한 기본적인 파일이다. 마크업언어로 구조적으로 태그들을 이용해서 보여진다.
+Chrome, Firefox, Safari, Edge 다양한 브라우저들이 표준에 맞게 브라우저를 구현한다.
+html에 정의된 태그를 사용하여 웹페이지를 만들면 모든 브라우저에 표현할 수 있다.
+ 
+html 상위태그 안에는 <head>와 <body>가 있다. 
+<head>는 상세설명이 들어간다. 웹페이지에 표시되는 meta정보가 들어간다. 
+<body>에는 사용자에게 보여지는 태그들로 이루어져 있다. 
+
+
+BOX (박스를 이루는 것)
+header | footer | nav | aside | main | section | article | div  
+span   | form
+section 안에는 article이 있다. 
+article은 반복되고 재사용 가능하다.
+
+
+ITEM (사용자에게 보여지는 태그)
+a  | butoon | input  | label | img | video | audio | map  | canvas | table
+
+ITEM 에서도 두 가지로 나눌 수 있다. 
+
+Block – 한줄에 하나 차지한다.
+Inline – 공간이 허용하면 다른 태그 옆에 배치가 가능하다.
+(배치되는 구조가 다르다.)
